@@ -1,2 +1,2 @@
 # RKS-TAEA
-RKS-TAEA coding
+Import the RKS-TAEA file into platemo and you're ready to go!
